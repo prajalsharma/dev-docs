@@ -10,6 +10,11 @@ export default function Document() {
           integrity="sha384-KiWOvVjnN8qwAZbuQyWDIbfCLFhLXNETzBQjA/92pIowpC0d2O3nppDGQVgwd2nB"
           crossOrigin="anonymous"
         />
+        <link
+          rel="icon"
+          type="image/png"
+          href="https://web3grants.s3.us-east-1.amazonaws.com/gearprotocol.png"
+        />
       </Head>
       <body>
         <Main />
